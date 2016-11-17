@@ -1,0 +1,188 @@
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:qwqw
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+connect=Resource id #10, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:qwqw
+main while...Message:off
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+time = 139.36999988556exit 
+connection closed OK
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:321311
+main while...Message:off
+try to start...main while...try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+connect=Resource id #9, info=Array OKopen OK
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+connect=Resource id #10, info=Array OKopen OK
+Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Notice: Undefined variable: db in /home/user1/elevation/php/testd.php on line 317
+
+Fatal error: Call to a member function query() on a non-object in /home/user1/elevation/php/testd.php on line 317
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+connect=Resource id #9, info=Array OKopen OK
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+connect=Resource id #10, info=Array OKopen OK
+Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 319
+
+Fatal error: Call to a member function fetchArray() on a non-object in /home/user1/elevation/php/testd.php on line 321
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 319
+
+Fatal error: Call to a member function fetchArray() on a non-object in /home/user1/elevation/php/testd.php on line 321
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+connect=Resource id #9, info=Array OKopen OK
+main while...onMessage: 1445802069Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+
+Fatal error: Call to a member function fetchArray() on a non-object in /home/user1/elevation/php/testd.php on line 322
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+
+Warning: implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+main while...try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+
+Warning: implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+main while...Message:
+
+Warning: implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+main while...Message:select count(*) from roads
+
+Warning: implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+main while...try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+main while...Message:select count(*) from roads
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+main while...connection closed...close OK
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+connect=Resource id #10, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+main while...Message:off
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+
+Notice: Undefined variable: msqout in /home/user1/elevation/php/testd.php on line 335
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #10, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+
+Notice: Undefined variable: msqout in /home/user1/elevation/php/testd.php on line 335
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+
+Notice: Undefined variable: msqout in /home/user1/elevation/php/testd.php on line 335
+main while...try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+main while...try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #9, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+main while...Message:SELECT AsGeoJSON(geometry) AS geometry FROM roads_net WHERE NodeFrom=322345 AND NodeTo=704608 LIMIT 1
+main while...Message:select node_id, X(geometry) as x, Y(geometry) as y, MIN(Distance(geometry,MakePoint(30.12, 47.94))) as rast from roads_nodes
+main while...Message:select node_id, X(geometry) as x, Y(geometry) as y, MIN(Distance(geometry,MakePoint(30.12, 47.94))) as rast from roads_nodes
+main while...Message:select node_id, X(geometry) as x, Y(geometry) as y, MIN(Distance(geometry,MakePoint(30.12, 47.94))) as rast from roads_nodes
+main while...Message:select node_id, X(geometry) as x, Y(geometry) as y, MIN(Distance(geometry,MakePoint(30.12, 47.94))) as rast from roads_nodes
+main while...Message:select node_id, X(geometry) as x, Y(geometry) as y, MIN(Distance(geometry,MakePoint(30.12, 47.94))) as rast from roads_nodes
+main while...Message:off
+try to start...main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #9, info=Array OKopen OK
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #10, info=Array OKopen OK
+Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #11, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+main while...new connection...
+Notice: Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+connect=Resource id #12, info=Array OKopen OK
+main while...Message:Connection with "ws://192.168.0.115:8888" Подключение установлено обоюдно, отлично!
+
+Warning: SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+main while...Message:select node_id, X(geometry) as x, Y(geometry) as y, MIN(Distance(geometry,MakePoint(30.12, 47.94))) as rast from roads_nodes
+main while...

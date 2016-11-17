@@ -1,0 +1,49 @@
+[25-Oct-2015 22:37:48 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+[25-Oct-2015 22:38:04 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+[25-Oct-2015 22:48:12 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+[25-Oct-2015 22:51:18 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 60
+[25-Oct-2015 23:21:04 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+[25-Oct-2015 23:21:04 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+[25-Oct-2015 23:21:04 Europe/Moscow] PHP Notice:  Undefined variable: db in /home/user1/elevation/php/testd.php on line 317
+[25-Oct-2015 23:21:04 Europe/Moscow] PHP Fatal error:  Call to a member function query() on a non-object in /home/user1/elevation/php/testd.php on line 317
+[25-Oct-2015 23:26:11 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+[25-Oct-2015 23:26:11 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 66
+[25-Oct-2015 23:26:11 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 319
+[25-Oct-2015 23:26:11 Europe/Moscow] PHP Fatal error:  Call to a member function fetchArray() on a non-object in /home/user1/elevation/php/testd.php on line 321
+[25-Oct-2015 23:38:59 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+[25-Oct-2015 23:38:59 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 319
+[25-Oct-2015 23:38:59 Europe/Moscow] PHP Fatal error:  Call to a member function fetchArray() on a non-object in /home/user1/elevation/php/testd.php on line 321
+[25-Oct-2015 23:41:09 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+[25-Oct-2015 23:41:09 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+[25-Oct-2015 23:41:09 Europe/Moscow] PHP Fatal error:  Call to a member function fetchArray() on a non-object in /home/user1/elevation/php/testd.php on line 322
+[25-Oct-2015 23:46:09 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+[25-Oct-2015 23:46:09 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+[25-Oct-2015 23:46:09 Europe/Moscow] PHP Warning:  implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+[25-Oct-2015 23:48:34 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+[25-Oct-2015 23:48:34 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+[25-Oct-2015 23:48:34 Europe/Moscow] PHP Warning:  implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+[25-Oct-2015 23:48:58 Europe/Moscow] PHP Warning:  implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+[25-Oct-2015 23:49:28 Europe/Moscow] PHP Warning:  implode(): Invalid arguments passed in /home/user1/elevation/php/testd.php on line 332
+[25-Oct-2015 23:50:19 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+[25-Oct-2015 23:50:19 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+[25-Oct-2015 23:54:10 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 67
+[25-Oct-2015 23:54:10 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 320
+[26-Oct-2015 12:14:18 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 12:14:18 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 12:14:18 Europe/Moscow] PHP Notice:  Undefined variable: msqout in /home/user1/elevation/php/testd.php on line 335
+[26-Oct-2015 12:14:22 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 12:14:22 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 12:14:22 Europe/Moscow] PHP Notice:  Undefined variable: msqout in /home/user1/elevation/php/testd.php on line 335
+[26-Oct-2015 12:14:44 Europe/Moscow] PHP Notice:  Undefined variable: msqout in /home/user1/elevation/php/testd.php on line 335
+[26-Oct-2015 12:16:28 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 12:16:28 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 12:17:55 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 12:17:55 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 18:42:44 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 18:42:44 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 18:42:44 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 18:42:44 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 18:42:44 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 18:42:44 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
+[26-Oct-2015 18:42:46 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/testd.php on line 68
+[26-Oct-2015 18:42:46 Europe/Moscow] PHP Warning:  SQLite3::query(): Unable to prepare statement: 1, near "Connection": syntax error in /home/user1/elevation/php/testd.php on line 322
