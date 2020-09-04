@@ -23,7 +23,7 @@
     echo "Сокет успешно связан с адресом и портом\n";
   }
   //Начинаем прослушивание сокета (максимум 5 одновременных соединений)
-  if (($ret = socket_listen($sock, 5)) < 0) {
+  if (($ret = socket_listen($sock, 10)) < 0) {
     echo "Ошибка при попытке прослушивания сокета";
   }
   else {
@@ -31,25 +31,25 @@
   }
   do {
     //Принимаем соединение с сокетом
-    if (($msgsock = socket_accept($sock)) < 0) {
+    if (($sockclient = socket_accept($sock)) < 0) {
       echo "Ошибка при старте соединений с сокетом";
     } else {
       echo "Сокет готов к приёму сообщений\n";
     }
     $msg = "Hello!"; //Сообщение клиенту
     echo "Сообщение от сервера: $msg";
-    socket_write($msgsock, $msg, strlen($msg)); //Запись в сокет
+    socket_write($sockclient, $msg, strlen($msg)); //Запись в сокет
     //Бесконечный цикл ожидания клиентов
     do {
       echo 'Сообщение от клиента: ';
-      if (false === ($buf = socket_read($msgsock, 1024))) {
+      if (false === ($buf = socket_read($sockclient, 1024))) {
         echo "Ошибка при чтении сообщения от клиента";       }
       else {
         echo $buf."\n"; //Сообщение от клиента
       }
       //Если клиент передал exit, то отключаем соединение
       if ($buf == 'exit') {
-        socket_close($msgsock);
+        socket_close($sockclient);
         break 2;
       }
       if (!is_numeric($buf)) echo "Сообщение от сервера: передано НЕ число\n";
@@ -57,7 +57,7 @@
         $buf = $buf * $buf;
         echo "Сообщение от сервера: ($buf)\n";
       }
-      socket_write($msgsock, $buf, strlen($buf));
+      socket_write($sockclient, $buf, strlen($buf));
     } while (true);
   } while (true);
   //Останавливаем работу с сокетом

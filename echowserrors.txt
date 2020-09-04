@@ -3,3 +3,5 @@
 [25-Oct-2015 21:27:26 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/echows2.php on line 73
 [25-Oct-2015 21:27:26 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/echows2.php on line 73
 [25-Oct-2015 21:27:26 Europe/Moscow] PHP Notice:  Array to string conversion in /home/user1/elevation/php/echows2.php on line 73
+[04-Sep-2020 13:57:01 Europe/Moscow] PHP Notice:  Undefined offset: 1 in /home/user1/projects/php-websocket-server/echows2.php on line 139
+[04-Sep-2020 14:02:03 Europe/Moscow] PHP Notice:  Undefined offset: 1 in /home/user1/projects/php-websocket-server/echows2.php on line 139

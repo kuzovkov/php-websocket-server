@@ -70,7 +70,7 @@ while (true) {
     if (in_array($socket, $read)) {//есть новое соединение то обязательно делаем handshake
         //принимаем новое соединение и производим рукопожатие:
         if (($connect = stream_socket_accept($socket, -1)) && $info = handshake($connect)) {
-			consolemsg("new connection... connect=".$connect.", info=".$info." OK");            
+			consolemsg("new connection... connect=".strval($connect).", info=".strval($info)." OK");
 
 			//var_dump($info); 
 
